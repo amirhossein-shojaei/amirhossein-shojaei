@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Amirhossein 👋</h1>
 <h3 align="center">Full-Stack Developer · React · Node.js · TypeScript · Docker</h3>
 
 <p align="center">
@@ -17,20 +17,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amirhossein-shojaei&show_icons=true&theme=default&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhossein-shojaei&layout=compact&theme=default" height="160" />
 </p>
 
 ## 🔥 Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirhossein-shojaei&theme=default" />
 </p>
 
 ## 🗓️ Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=minimal" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirhossein-shojaei&theme=minimal" />
 </p>
 
 ---

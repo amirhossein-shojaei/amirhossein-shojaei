@@ -5,7 +5,7 @@
 
 <!-- SKILL ICONS -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,tailwind,docker,python,express,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,ts,js,nodejs,express,docker,python,git,github" />
 </p>
 
 ---

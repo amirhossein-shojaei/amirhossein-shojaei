@@ -1,164 +1,57 @@
-# 📊 GitHub Statistics
+<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h3 align="center">Full-Stack Developer · React · Node.js · TypeScript · Docker</h3>
 
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-</td>
-
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</td>
-</tr>
-</table>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
 
 ---
 
-# 🔥 GitHub Streak
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default" height="160" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+## 🔥 Streak
 
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default" />
+</p>
 
----
+## 🗓️ Contribution Graph
 
-# 📈 Contribution Activity Graph
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=minimal" />
+</p>
 
 ---
 
-# 📋 Commit Information
+## 🛠️ Tech Stack
 
-<div align="center">
-
-| Metric                 |  Status |
-| :--------------------- | :-----: |
-| 🚀 Total Commits       | Dynamic |
-| 🔥 Current Streak      | Dynamic |
-| ⭐ Total Stars          | Dynamic |
-| 📦 Public Repositories | Dynamic |
-| 🛠 Pull Requests       | Dynamic |
-| 👥 Followers           | Dynamic |
-
-</div>
-
-</div>
+| Layer | Technologies |
+|---|---|
+| Frontend | React, TypeScript, JavaScript, Tailwind CSS, HTML, CSS |
+| Backend | Node.js, Express.js, Python |
+| DevOps | Docker, Docker Compose |
+| Tools | VS Code, Git |
 
 ---
 
-# 📑 Profile Summary Cards
+## 📝 Recent Commits
 
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=tokyonight&utcOffset=0" />
-
-</div>
-
----
-
-# 🐍 Snake Contribution Animation
-
-Create a file:
-
-`.github/workflows/snake.yml`
-
-```yml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: YOUR_USERNAME
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then add this to README:
-
-```md
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-```
-
----
-
-# 👀 Visitor Counter
-
-```md
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-
-</div>
-```
-
----
-
-# ✨ Animated Typing Header
-
-```md
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+🚀;React+%7C+Node.js+Developer;Building+Modern+Web+Applications;Docker+%7C+Python+%7C+TypeScript;Always+Learning+New+Things+🔥" />
-
-</div>
-```
+| Message | Repo | Category | Date |
+|---|---|---|---|
+| Add auth middleware with JWT | api-server | `Backend` | Jun 16 |
+| Build dashboard with Recharts | admin-panel | `Frontend` | Jun 14 |
+| Dockerize express app + nginx | devops-kit | `DevOps` | Jun 12 |
+| Refactor hooks with TypeScript | react-starter | `Frontend` | Jun 10 |
+| Python scraper for analytics | data-tools | `Tool` | Jun 8 |

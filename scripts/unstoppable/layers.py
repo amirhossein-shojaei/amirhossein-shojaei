@@ -156,9 +156,10 @@ def card_under_svg():
         "</g>"
     )
     head = (
-        f'<path d="M44 37.5 47.5 34l3.5 3.5-3.5 3.5Z" fill="{TEAL}"/>'
-        f'<text x="58" y="42" font-family="{MONO}" font-size="13" font-weight="700" letter-spacing=".8" fill="#9ecbff">UNSTOPPABLE</text>'
-        f'<rect x="174" y="37" width="520" height="1" fill="url(#hl)"/>'
+        # Section heading: this card opens the "01 / About me" section of the README.
+        f'<text x="40" y="44" font-family="{MONO}" font-size="17" font-weight="600" letter-spacing="0.6" textLength="140.4" lengthAdjust="spacingAndGlyphs">'
+        f'<tspan fill="{TEAL}">01</tspan><tspan fill="#9ecbff"> / ABOUT ME</tspan></text>'
+        f'<rect x="194.4" y="38" width="520" height="1" fill="url(#hl)"/>'
         f'<text x="860" y="42" font-family="{MONO}" font-size="11" fill="#6f8498" text-anchor="end">snake.eat(portrait)</text>'
         f'<text x="450" y="{CARD_H - 26}" font-family="{MONO}" font-size="11.5" fill="#6f8498" text-anchor="middle">// every bite reveals what was underneath</text>'
     )

@@ -9,7 +9,12 @@
 </p>
 
 <p align="center">
-  <img src="assets/about.svg" width="100%" alt="01 / About me — Portrait of Amirhossein Shojaei. Full-Stack Development: building frontend experiences and backend services for real products. Shopify Applications: exploring embedded apps, storefront experiences, and platform integrations. Infrastructure &amp; Delivery: working with Linux, containers, deployment, and production environments. AI-Powered Products: integrating AI capabilities and external APIs into useful application workflows.">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/unstoppable-static.png">
+    <img src="assets/unstoppable.gif" width="100%" alt="01 / About me — an animated snake eats my portrait bite by bite, revealing the UNSTOPPABLE logo underneath until it is fully visible, then the portrait restores and the loop repeats.">
+  </picture>
+  <br>
+  <img src="assets/about.svg" width="100%" alt="Full-Stack Development: building frontend experiences and backend services for real products. Shopify Applications: exploring embedded apps, storefront experiences, and platform integrations. Infrastructure &amp; Delivery: working with Linux, containers, deployment, and production environments. AI-Powered Products: integrating AI capabilities and external APIs into useful application workflows.">
 </p>
 
 <p align="center">
@@ -22,13 +27,6 @@
 
 <p align="center">
   <sub>Live:&nbsp; <a href="https://coup.davandegan.cloud/">Coup</a> &nbsp;·&nbsp; <a href="https://app.inotex.com">INOTEX</a> &nbsp;·&nbsp; <a href="https://myelixia.com/">Elixia</a></sub>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/unstoppable-static.png">
-    <img src="assets/unstoppable.gif" width="100%" alt="UNSTOPPABLE — an animated snake eats my portrait bite by bite, revealing the UNSTOPPABLE logo underneath until it is fully visible, then the portrait restores and the loop repeats.">
-  </picture>
 </p>
 
 <p align="center">

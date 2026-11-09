@@ -30,17 +30,6 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/amirhossein-shojaei/amirhossein-shojaei/output/contribution-snake-static.svg">
-    <img src="https://raw.githubusercontent.com/amirhossein-shojaei/amirhossein-shojaei/output/contribution-snake.svg" width="100%" alt="04 / GitHub activity — my real GitHub contribution calendar for the last 12 months, with an animated snake that travels the grid and eats every day that has contributions.">
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amirhossein-shojaei/amirhossein-shojaei/output/github-stats.svg" width="100%" alt="GitHub stats — total contributions, current and longest contribution streaks, total commits, and most used programming languages, generated from GitHub data.">
-</p>
-
-<p align="center">
   <img src="assets/exploring.svg" width="100%" alt="05 / Currently exploring — DevOps &amp; Deployment, System Design, Software Architecture, AI Engineering, English Communication.">
 </p>
 

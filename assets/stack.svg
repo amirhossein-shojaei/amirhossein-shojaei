@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="438" viewBox="0 0 900 438" role="img" aria-labelledby="t d" fill="none">
+<title id="t">02 / Technology stack</title>
+<desc id="d">FRONTEND: JavaScript, TypeScript, React, Next.js, Tailwind CSS, HTML / CSS, Vite, PWA; BACKEND &amp; DATA: Node.js, Express, REST APIs, MongoDB, Supabase, JWT; PLATFORM, DEVOPS &amp; TOOLS: Shopify App Bridge, Shopify Web Components, Docker, PM2, Nginx, APISIX, Linux, Git, Vercel</desc>
+<style>.s{font-family:Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif}.m{font-family:'JetBrains Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace}
+.lg{animation:pulse 8s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.09}50%{opacity:.24}}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs>
+<symbol id="lg-css" viewBox="0 0 24 24"><path fill="#1572B6" d="M1.5 0h21l-1.91 21.563L11.977 24l-8.565-2.438L1.5 0zm17.09 4.413L5.41 4.41l.213 2.622 10.125.002-.255 2.716h-6.64l.24 2.573h6.182l-.366 3.523-2.91.804-2.956-.81-.188-2.11h-2.61l.29 3.855L12 19.288l5.373-1.53L18.59 4.414z"/></symbol>
+<symbol id="lg-html" viewBox="0 0 24 24"><path fill="#E34F26" d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z"/></symbol>
+<symbol id="lg-js" viewBox="0 0 64 64">
+      <rect width="64" height="64" rx="9" fill="#F7DF1E"/>
+      <text x="57" y="56" text-anchor="end" font-family="Inter,Arial,sans-serif" font-weight="800" font-size="30" fill="#1b1b1b">JS</text>
+    </symbol>
+<symbol id="lg-mongo" viewBox="0 0 24 24"><path fill="#47A248" d="M17.193 9.555c-1.264-5.58-4.252-7.414-4.573-8.115-.28-.394-.53-.954-.735-1.44-.036.495-.055.685-.523 1.184-.723.566-4.438 3.682-4.74 10.02-.282 5.912 4.27 9.435 4.888 9.884l.07.05A73.49 73.49 0 0111.91 24h.481c.114-1.032.284-2.056.51-3.07.417-.296.604-.463.85-.693a11.342 11.342 0 003.639-8.464c.01-.814-.103-1.662-.197-2.218zm-5.336 8.195s0-8.291.275-8.29c.213 0 .49 10.695.49 10.695-.381-.045-.765-1.76-.765-2.405z"/></symbol>
+<filter id="gl-css" x="-60%" y="-60%" width="220%" height="220%"><feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#1572b6" flood-opacity=".75"/></filter>
+<filter id="gl-html" x="-60%" y="-60%" width="220%" height="220%"><feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#e34f26" flood-opacity=".75"/></filter>
+<filter id="gl-js" x="-60%" y="-60%" width="220%" height="220%"><feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#f7df1e" flood-opacity=".75"/></filter>
+<filter id="gl-mongo" x="-60%" y="-60%" width="220%" height="220%"><feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#47a248" flood-opacity=".75"/></filter>
+<filter id="dg" x="-200%" y="-200%" width="500%" height="500%"><feDropShadow dx="0" dy="0" stdDeviation="2.5" flood-color="#39d0d8" flood-opacity=".9"/></filter>
+<linearGradient id="pg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111a25"/><stop offset="1" stop-color="#0f1721"/></linearGradient>
+<linearGradient id="hl" x1="0" x2="1"><stop stop-color="#315678"/><stop offset="1" stop-color="#315678" stop-opacity="0"/></linearGradient>
+<clipPath id="pc"><rect x="1" y="1" width="898" height="436" rx="16"/></clipPath>
+</defs>
+<rect x=".5" y=".5" width="899" height="437" rx="16" fill="url(#pg)" stroke="#263647"/>
+<g clip-path="url(#pc)"><g class="lg" opacity="0.14" style="animation-duration:8s;animation-delay:-0s" filter="url(#gl-js)"><use href="#lg-js" x="846" y="10" width="46" height="46"/></g><g class="lg" opacity="0.14" style="animation-duration:9.5s;animation-delay:-3s" filter="url(#gl-html)"><use href="#lg-html" x="838" y="318" width="52" height="52"/></g><g class="lg" opacity="0.14" style="animation-duration:8.5s;animation-delay:-5s" filter="url(#gl-css)"><use href="#lg-css" x="-14" y="366" width="54" height="54"/></g><g class="lg" opacity="0.14" style="animation-duration:10s;animation-delay:-2s" filter="url(#gl-mongo)"><use href="#lg-mongo" x="640" y="408" width="44" height="44"/></g></g>
+<text class="m" x="40" y="50" font-size="17" font-weight="600" letter-spacing="0.6" textLength="226.8" lengthAdjust="spacingAndGlyphs"><tspan fill="#5ee6cf">02</tspan><tspan fill="#9ecbff"> / TECHNOLOGY STACK</tspan></text>
+<rect x="280.8" y="44" width="579.2" height="1" fill="url(#hl)"/>
+<text class="m" x="40.0" y="94.0" font-size="11.5" fill="#91a4b8" font-weight="600" letter-spacing="1.2" text-anchor="start" textLength="64.8" lengthAdjust="spacingAndGlyphs">FRONTEND</text>
+<rect x="40.0" y="108" width="128.0" height="34" rx="8" fill="#142232" stroke="#29445d"/>
+<circle cx="57.0" cy="125.0" r="3.5" fill="#39d0d8" filter="url(#dg)"/>
+<text class="m" x="70.0" y="130.0" font-size="14" fill="#d6e7f7" font-weight="400" letter-spacing="0" text-anchor="start" textLength="84.0" lengthAdjust="spacingAndGlyphs">JavaScript</text>
+<rect x="176.0" y="108" width="128.0" height="34" rx="8" fill="#142232" stroke="#29445d"/>
+<circle cx="193.0" cy="125.0" r="3.5" fill="#39d0d8" filter="url(#dg)"/>
+<text class="m" x="206.0" y="130.0" font-size="14" fill="#d6e7f7" font-weight="400" letter-spacing="0" text-anchor="start" textLength="84.0" lengthAdjust="spacingAndGlyphs">TypeScript</text>
+<rect x="312.0" y="108" width="86.0" height="34" rx="8" fill="#142232" stroke="#29445d"/>
+<circle cx="329.0" cy="125.0" r="3.5" fill="#39d0d8" filter="url(#dg)"/>
+<text class="m" x="342.0" y="130.0" font-size="14" fill="#d6e7f7" font-weight="400" letter-spacing="0" text-anchor="start" textLength="42.0" lengthAdjust="spacingAndGlyphs">React</text>
+<rect x="406.0" y="108" width="102.8" height="34" rx="8" fill="#142232" stroke="#29445d"/>
+<circle cx="423.0" cy="125.0" r="3.5" fill="#39d0d8" filter="url(#dg)"/>
+<text class="m" x="436.0" y="130.0" font-size="14" fill="#d6e7f7" font-weight="400" letter-spacing="0" text-anchor="start" textLength="58.8" lengthAdjust="spacingAndGlyphs">Next.js</text>
+<rect x="516.8" y="108" width="144.8" height="34" rx="8" fill="#142232" stroke="#29445d"/>
+<circle cx="533.8" cy="125.0" r="3.5" fill="#39d0d8" filter="url(#dg)"/>
+<text class="m" x="546.8" y="130.0" font-size="14" fill="#d6e7f7" font-weight="400" letter-spacing="0" text-anchor="start" textLength="100.8" lengthAdjust="spacingAndGlyphs">Tailwind CSS</text>
+<rect x="669.6" y="108" width="128.0" height="34" rx="8" fill="#142232" stroke="#29445d"/>
+<circle cx="686.6" cy="125.0" r="3.5" fill="#39d0d8" filter="url(#dg)"/>
+<text class="m" x="699.6" y="130.0" font-size="14" fill="#d6e7f7" font-weight="400" letter-spacing="0" text-anchor="start" textLength="84.0" lengthAdjust="spacingAndGlyphs">HTML / CSS</text>
+<rect x="40.0" y="150" width="77.6" height="34" rx="8" fill="#142232" stroke="#29445d"/>
+<circle cx="57.0" cy="167.0" r="3.5" fill="#39d0d8" filter="url(#dg)"/>
+<text class="m" x="70.0" y="172.0" font-size="14" fill="#d6e7f7" font-weight="400" letter-spacing="0" text-anchor="start" textLength="33.6" lengthAdjust="spacingAndGlyphs">Vite</text>
+<rect x="125.6" y="150" width="69.2" height="34" rx="8" fill="#142232" stroke="#29445d"/>
+<circle cx="142.6" cy="167.0" r="3.5" fill="#39d0d8" filter="url(#dg)"/>
+<text class="m" x="155.6" y="172.0" font-size="14" fill="#d6e7f7" font-weight="400" letter-spacing="0" text-anchor="start" textLength="25.2" lengthAdjust="spacingAndGlyphs">PWA</text>
+<text class="m" x="40.0" y="222.0" font-size="11.5" fill="#91a4b8" font-weight="600" letter-spacing="1.2" text-anchor="start" textLength="113.4" lengthAdjust="spacingAndGlyphs">BACKEND &amp; DATA</text>
+<rect x="40.0" y="236" width="102.8" height="34" rx="8" fill="#142232" stroke="#29445d"/>
+<circle cx="57.0" cy="253.0" r="3.5" fill="#39d0d8" filter="url(#dg)"/>
+<text class="m" x="70.0" y="258.0" font-size="14" fill="#d6e7f7" font-weight="400" letter-spacing="0" text-anchor="start" textLength="58.8" lengthAdjust="spacingAndGlyphs">Node.js</text>
+<rect x="150.8" y="236" width="102.8" height="34" rx="8" fill="#142232" stroke="#29445d"/>
+<circle cx="167.8" cy="253.0" r="3.5" fill="#39d0d8" filter="url(#dg)"/>
+<text class="m" x="180.8" y="258.0" font-size="14" fill="#d6e7f7" font-weight="400" letter-spacing="0" text-anchor="start" textLength="58.8" lengthAdjust="spacingAndGlyphs">Express</text>
+<rect x="261.6" y="236" width="119.6" height="34" rx="8" fill="#142232" stroke="#29445d"/>
+<circle cx="278.6" cy="253.0" r="3.5" fill="#39d0d8" filter="url(#dg)"/>
+<text class="m" x="291.6" y="258.0" font-size="14" fill="#d6e7f7" font-weight="400" letter-spacing="0" text-anchor="start" textLength="75.6" lengthAdjust="spacingAndGlyphs">REST APIs</text>
+<rect x="389.2" y="236" width="102.8" height="34" rx="8" fill="#142232" stroke="#29445d"/>
+<circle cx="406.2" cy="253.0" r="3.5" fill="#39d0d8" filter="url(#dg)"/>
+<text class="m" x="419.2" y="258.0" font-size="14" fill="#d6e7f7" font-weight="400" letter-spacing="0" text-anchor="start" textLength="58.8" lengthAdjust="spacingAndGlyphs">MongoDB</text>
+<rect x="500.0" y="236" width="111.2" height="34" rx="8" fill="#142232" stroke="#29445d"/>
+<circle cx="517.0" cy="253.0" r="3.5" fill="#39d0d8" filter="url(#dg)"/>
+<text class="m" x="530.0" y="258.0" font-size="14" fill="#d6e7f7" font-weight="400" letter-spacing="0" text-anchor="start" textLength="67.2" lengthAdjust="spacingAndGlyphs">Supabase</text>
+<rect x="619.2" y="236" width="69.2" height="34" rx="8" fill="#142232" stroke="#29445d"/>
+<circle cx="636.2" cy="253.0" r="3.5" fill="#39d0d8" filter="url(#dg)"/>
+<text class="m" x="649.2" y="258.0" font-size="14" fill="#d6e7f7" font-weight="400" letter-spacing="0" text-anchor="start" textLength="25.2" lengthAdjust="spacingAndGlyphs">JWT</text>
+<text class="m" x="40.0" y="308.0" font-size="11.5" fill="#91a4b8" font-weight="600" letter-spacing="1.2" text-anchor="start" textLength="194.4" lengthAdjust="spacingAndGlyphs">PLATFORM, DEVOPS &amp; TOOLS</text>
+<rect x="40.0" y="322" width="195.2" height="34" rx="8" fill="#142232" stroke="#29445d"/>
+<circle cx="57.0" cy="339.0" r="3.5" fill="#39d0d8" filter="url(#dg)"/>
+<text class="m" x="70.0" y="344.0" font-size="14" fill="#d6e7f7" font-weight="400" letter-spacing="0" text-anchor="start" textLength="151.2" lengthAdjust="spacingAndGlyphs">Shopify App Bridge</text>
+<rect x="243.2" y="322" width="228.8" height="34" rx="8" fill="#142232" stroke="#29445d"/>
+<circle cx="260.2" cy="339.0" r="3.5" fill="#39d0d8" filter="url(#dg)"/>
+<text class="m" x="273.2" y="344.0" font-size="14" fill="#d6e7f7" font-weight="400" letter-spacing="0" text-anchor="start" textLength="184.8" lengthAdjust="spacingAndGlyphs">Shopify Web Components</text>
+<rect x="480.0" y="322" width="94.4" height="34" rx="8" fill="#142232" stroke="#29445d"/>
+<circle cx="497.0" cy="339.0" r="3.5" fill="#39d0d8" filter="url(#dg)"/>
+<text class="m" x="510.0" y="344.0" font-size="14" fill="#d6e7f7" font-weight="400" letter-spacing="0" text-anchor="start" textLength="50.4" lengthAdjust="spacingAndGlyphs">Docker</text>
+<rect x="582.4" y="322" width="69.2" height="34" rx="8" fill="#142232" stroke="#29445d"/>
+<circle cx="599.4" cy="339.0" r="3.5" fill="#39d0d8" filter="url(#dg)"/>
+<text class="m" x="612.4" y="344.0" font-size="14" fill="#d6e7f7" font-weight="400" letter-spacing="0" text-anchor="start" textLength="25.2" lengthAdjust="spacingAndGlyphs">PM2</text>
+<rect x="659.6" y="322" width="86.0" height="34" rx="8" fill="#142232" stroke="#29445d"/>
+<circle cx="676.6" cy="339.0" r="3.5" fill="#39d0d8" filter="url(#dg)"/>
+<text class="m" x="689.6" y="344.0" font-size="14" fill="#d6e7f7" font-weight="400" letter-spacing="0" text-anchor="start" textLength="42.0" lengthAdjust="spacingAndGlyphs">Nginx</text>
+<rect x="753.6" y="322" width="94.4" height="34" rx="8" fill="#142232" stroke="#29445d"/>
+<circle cx="770.6" cy="339.0" r="3.5" fill="#39d0d8" filter="url(#dg)"/>
+<text class="m" x="783.6" y="344.0" font-size="14" fill="#d6e7f7" font-weight="400" letter-spacing="0" text-anchor="start" textLength="50.4" lengthAdjust="spacingAndGlyphs">APISIX</text>
+<rect x="40.0" y="364" width="86.0" height="34" rx="8" fill="#142232" stroke="#29445d"/>
+<circle cx="57.0" cy="381.0" r="3.5" fill="#39d0d8" filter="url(#dg)"/>
+<text class="m" x="70.0" y="386.0" font-size="14" fill="#d6e7f7" font-weight="400" letter-spacing="0" text-anchor="start" textLength="42.0" lengthAdjust="spacingAndGlyphs">Linux</text>
+<rect x="134.0" y="364" width="69.2" height="34" rx="8" fill="#142232" stroke="#29445d"/>
+<circle cx="151.0" cy="381.0" r="3.5" fill="#39d0d8" filter="url(#dg)"/>
+<text class="m" x="164.0" y="386.0" font-size="14" fill="#d6e7f7" font-weight="400" letter-spacing="0" text-anchor="start" textLength="25.2" lengthAdjust="spacingAndGlyphs">Git</text>
+<rect x="211.2" y="364" width="94.4" height="34" rx="8" fill="#142232" stroke="#29445d"/>
+<circle cx="228.2" cy="381.0" r="3.5" fill="#39d0d8" filter="url(#dg)"/>
+<text class="m" x="241.2" y="386.0" font-size="14" fill="#d6e7f7" font-weight="400" letter-spacing="0" text-anchor="start" textLength="50.4" lengthAdjust="spacingAndGlyphs">Vercel</text>
+</svg>

@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1042" viewBox="0 0 900 1042" role="img" aria-labelledby="t d" fill="none">
+<title id="t">03 / Selected projects</title>
+<desc id="d">Hobo (Shopify): A Shopify embedded application that brings AI-powered chat and customer support into the commerce experience. Hobo pairs automated AI conversations with a human handoff workflow, so routine questions are answered quickly while conversations that need a personal touch can be passed to a person. Stack: Shopify, Web Components, AI. Elixia (Pwa): A modern Progressive Web App platform focused on delivering an app-like experience directly on the web. Elixia combines the reach and accessibility of the browser with the responsiveness and polish people expect from native applications. Stack: PWA, Web Development. Personal Website (Portfolio): A personal developer website and portfolio that brings professional identity, selected work, and technical focus together in one place, giving visitors a clear picture of the person and the work behind the code. Stack: Next.js, React, Tailwind CSS.</desc>
+<style>.s{font-family:Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif}.m{font-family:'JetBrains Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace}
+.lg{animation:pulse 8s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.09}50%{opacity:.24}}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs>
+<linearGradient id="cg" x1="0" y1="0" x2=".6" y2="1"><stop stop-color="#122131"/><stop offset=".7" stop-color="#0e1925"/></linearGradient>
+<linearGradient id="ig" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#173149"/><stop offset="1" stop-color="#0f2133"/></linearGradient>
+<linearGradient id="pg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111a25"/><stop offset="1" stop-color="#0f1721"/></linearGradient>
+<linearGradient id="hl" x1="0" x2="1"><stop stop-color="#315678"/><stop offset="1" stop-color="#315678" stop-opacity="0"/></linearGradient>
+<clipPath id="pc"><rect x="1" y="1" width="898" height="1040" rx="16"/></clipPath>
+<linearGradient id="gchat" x1="0" x2="1"><stop stop-color="#5ee6cf" stop-opacity="0"/><stop offset=".5" stop-color="#5ee6cf" stop-opacity=".7"/><stop offset="1" stop-color="#5ee6cf" stop-opacity="0"/></linearGradient>
+<linearGradient id="gapp" x1="0" x2="1"><stop stop-color="#79c0ff" stop-opacity="0"/><stop offset=".5" stop-color="#79c0ff" stop-opacity=".7"/><stop offset="1" stop-color="#79c0ff" stop-opacity="0"/></linearGradient>
+<linearGradient id="gweb" x1="0" x2="1"><stop stop-color="#a5a0ff" stop-opacity="0"/><stop offset=".5" stop-color="#a5a0ff" stop-opacity=".7"/><stop offset="1" stop-color="#a5a0ff" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x=".5" y=".5" width="899" height="1041" rx="16" fill="url(#pg)" stroke="#263647"/>
+<text class="m" x="40" y="50" font-size="17" font-weight="600" letter-spacing="0.6" textLength="237.6" lengthAdjust="spacingAndGlyphs"><tspan fill="#5ee6cf">03</tspan><tspan fill="#9ecbff"> / SELECTED PROJECTS</tspan></text>
+<rect x="291.6" y="44" width="568.4" height="1" fill="url(#hl)"/>
+<rect x="40" y="80" width="820" height="312" rx="13" fill="url(#cg)" stroke="#2a4055"/>
+<rect x="60" y="80" width="780" height="2" fill="url(#gchat)"/>
+<rect x="64" y="104" width="54" height="54" rx="14" fill="url(#ig)" stroke="#2f5375"/>
+<g transform="translate(77.2,117.2) scale(1.15)" stroke="#5ee6cf" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a8 8 0 0 1-11.6 7.1L4 20.5l1.4-4.9A8 8 0 1 1 21 12Z"/><path d="M8.5 11h.01M12 11h.01M15.5 11h.01"/></g>
+<text class="s" x="136" y="132" font-size="25" font-weight="700" letter-spacing="-.4" fill="#e9f3ff">Hobo</text>
+<text class="m" x="137.0" y="155.0" font-size="12.5" fill="#5ee6cf" font-weight="500" letter-spacing="0" text-anchor="start" textLength="262.5" lengthAdjust="spacingAndGlyphs">Embedded AI chat &amp; customer support</text>
+<rect x="762.9" y="106" width="73.1" height="24" rx="12" fill="#0d1b28" stroke="#2c4256"/>
+<text class="m" x="799.5" y="122.0" font-size="10.5" fill="#8fb3cc" font-weight="600" letter-spacing="1" text-anchor="middle" textLength="51.1" lengthAdjust="spacingAndGlyphs">SHOPIFY</text>
+<text class="s" x="66" y="194" font-size="16" fill="#aebdcb">A Shopify embedded application that brings AI-powered chat and customer support into the</text>
+<text class="s" x="66" y="219" font-size="16" fill="#aebdcb">commerce experience. Hobo pairs automated AI conversations with a human handoff workflow,</text>
+<text class="s" x="66" y="244" font-size="16" fill="#aebdcb">so routine questions are answered quickly while conversations that need a personal touch</text>
+<text class="s" x="66" y="269" font-size="16" fill="#aebdcb">can be passed to a person.</text>
+<circle cx="71" cy="300" r="3.6" stroke="#5ee6cf" stroke-width="1.6"/>
+<text class="s" x="82" y="305" font-size="14" fill="#c3d2e0">Embedded Shopify application experience</text>
+<circle cx="398.92" cy="300" r="3.6" stroke="#5ee6cf" stroke-width="1.6"/>
+<text class="s" x="409.92" y="305" font-size="14" fill="#c3d2e0">AI chat for customer support</text>
+<circle cx="646.76" cy="300" r="3.6" stroke="#5ee6cf" stroke-width="1.6"/>
+<text class="s" x="657.76" y="305" font-size="14" fill="#c3d2e0">Human handoff workflow</text>
+<line x1="66" x2="834" y1="329" y2="329" stroke="#2a3f53" stroke-dasharray="4 4"/>
+<text class="m" x="66.0" y="359.0" font-size="10.5" fill="#6f899f" font-weight="600" letter-spacing="1.2" text-anchor="start" textLength="37.5" lengthAdjust="spacingAndGlyphs">STACK</text>
+<rect x="119.5" y="342" width="70.4" height="26" rx="6" fill="#0f2537" stroke="#28506e"/>
+<text class="m" x="129.5" y="359.5" font-size="12" fill="#cfe6f5" font-weight="500" letter-spacing="0" text-anchor="start" textLength="50.4" lengthAdjust="spacingAndGlyphs">Shopify</text>
+<rect x="197.9" y="342" width="120.8" height="26" rx="6" fill="#0f2537" stroke="#28506e"/>
+<text class="m" x="207.9" y="359.5" font-size="12" fill="#cfe6f5" font-weight="500" letter-spacing="0" text-anchor="start" textLength="100.8" lengthAdjust="spacingAndGlyphs">Web Components</text>
+<rect x="326.7" y="342" width="34.4" height="26" rx="6" fill="#0f2537" stroke="#28506e"/>
+<text class="m" x="336.7" y="359.5" font-size="12" fill="#cfe6f5" font-weight="500" letter-spacing="0" text-anchor="start" textLength="14.4" lengthAdjust="spacingAndGlyphs">AI</text>
+<rect x="40" y="410" width="820" height="287" rx="13" fill="url(#cg)" stroke="#2a4055"/>
+<rect x="60" y="410" width="780" height="2" fill="url(#gapp)"/>
+<rect x="64" y="434" width="54" height="54" rx="14" fill="url(#ig)" stroke="#2f5375"/>
+<g transform="translate(77.2,447.2) scale(1.15)" stroke="#79c0ff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="6" y="2.5" width="12" height="19" rx="2.5"/><path d="M10.5 18.5h3"/><path d="M9 7.5h6M9 11h4"/></g>
+<text class="s" x="136" y="462" font-size="25" font-weight="700" letter-spacing="-.4" fill="#e9f3ff">Elixia</text>
+<text class="m" x="137.0" y="485.0" font-size="12.5" fill="#79c0ff" font-weight="500" letter-spacing="0" text-anchor="start" textLength="210.0" lengthAdjust="spacingAndGlyphs">Progressive Web App platform</text>
+<rect x="792.1" y="436" width="43.9" height="24" rx="12" fill="#0d1b28" stroke="#2c4256"/>
+<text class="m" x="814.0" y="452.0" font-size="10.5" fill="#8fb3cc" font-weight="600" letter-spacing="1" text-anchor="middle" textLength="21.9" lengthAdjust="spacingAndGlyphs">PWA</text>
+<text class="s" x="66" y="524" font-size="16" fill="#aebdcb">A modern Progressive Web App platform focused on delivering an app-like experience</text>
+<text class="s" x="66" y="549" font-size="16" fill="#aebdcb">directly on the web. Elixia combines the reach and accessibility of the browser with the</text>
+<text class="s" x="66" y="574" font-size="16" fill="#aebdcb">responsiveness and polish people expect from native applications.</text>
+<circle cx="71" cy="605" r="3.6" stroke="#79c0ff" stroke-width="1.6"/>
+<text class="s" x="82" y="610" font-size="14" fill="#c3d2e0">App-like experience in the browser</text>
+<circle cx="362.52" cy="605" r="3.6" stroke="#79c0ff" stroke-width="1.6"/>
+<text class="s" x="373.52" y="610" font-size="14" fill="#c3d2e0">Modern, responsive web interface</text>
+<line x1="66" x2="834" y1="634" y2="634" stroke="#2a3f53" stroke-dasharray="4 4"/>
+<text class="m" x="66.0" y="664.0" font-size="10.5" fill="#6f899f" font-weight="600" letter-spacing="1.2" text-anchor="start" textLength="37.5" lengthAdjust="spacingAndGlyphs">STACK</text>
+<rect x="119.5" y="647" width="41.6" height="26" rx="6" fill="#0f2537" stroke="#28506e"/>
+<text class="m" x="129.5" y="664.5" font-size="12" fill="#cfe6f5" font-weight="500" letter-spacing="0" text-anchor="start" textLength="21.6" lengthAdjust="spacingAndGlyphs">PWA</text>
+<rect x="169.1" y="647" width="128.0" height="26" rx="6" fill="#0f2537" stroke="#28506e"/>
+<text class="m" x="179.1" y="664.5" font-size="12" fill="#cfe6f5" font-weight="500" letter-spacing="0" text-anchor="start" textLength="108.0" lengthAdjust="spacingAndGlyphs">Web Development</text>
+<rect x="40" y="715" width="820" height="287" rx="13" fill="url(#cg)" stroke="#2a4055"/>
+<rect x="60" y="715" width="780" height="2" fill="url(#gweb)"/>
+<rect x="64" y="739" width="54" height="54" rx="14" fill="url(#ig)" stroke="#2f5375"/>
+<g transform="translate(77.2,752.2) scale(1.15)" stroke="#a5a0ff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="4" width="19" height="15" rx="2.5"/><path d="M2.5 8.5h19"/><path d="M6 6.3h.01M8.5 6.3h.01"/><path d="m9.5 12.5-2 2 2 2M14.5 12.5l2 2-2 2"/></g>
+<text class="s" x="136" y="767" font-size="25" font-weight="700" letter-spacing="-.4" fill="#e9f3ff">Personal Website</text>
+<text class="m" x="137.0" y="790.0" font-size="12.5" fill="#a5a0ff" font-weight="500" letter-spacing="0" text-anchor="start" textLength="225.0" lengthAdjust="spacingAndGlyphs">Developer presence &amp; portfolio</text>
+<rect x="748.3" y="741" width="87.7" height="24" rx="12" fill="#0d1b28" stroke="#2c4256"/>
+<text class="m" x="792.1" y="757.0" font-size="10.5" fill="#8fb3cc" font-weight="600" letter-spacing="1" text-anchor="middle" textLength="65.7" lengthAdjust="spacingAndGlyphs">PORTFOLIO</text>
+<text class="s" x="66" y="829" font-size="16" fill="#aebdcb">A personal developer website and portfolio that brings professional identity, selected</text>
+<text class="s" x="66" y="854" font-size="16" fill="#aebdcb">work, and technical focus together in one place, giving visitors a clear picture of the</text>
+<text class="s" x="66" y="879" font-size="16" fill="#aebdcb">person and the work behind the code.</text>
+<circle cx="71" cy="910" r="3.6" stroke="#a5a0ff" stroke-width="1.6"/>
+<text class="s" x="82" y="915" font-size="14" fill="#c3d2e0">Presents work and professional identity</text>
+<circle cx="398.92" cy="910" r="3.6" stroke="#a5a0ff" stroke-width="1.6"/>
+<text class="s" x="409.92" y="915" font-size="14" fill="#c3d2e0">Central home for portfolio content</text>
+<line x1="66" x2="834" y1="939" y2="939" stroke="#2a3f53" stroke-dasharray="4 4"/>
+<text class="m" x="66.0" y="969.0" font-size="10.5" fill="#6f899f" font-weight="600" letter-spacing="1.2" text-anchor="start" textLength="37.5" lengthAdjust="spacingAndGlyphs">STACK</text>
+<rect x="119.5" y="952" width="70.4" height="26" rx="6" fill="#0f2537" stroke="#28506e"/>
+<text class="m" x="129.5" y="969.5" font-size="12" fill="#cfe6f5" font-weight="500" letter-spacing="0" text-anchor="start" textLength="50.4" lengthAdjust="spacingAndGlyphs">Next.js</text>
+<rect x="197.9" y="952" width="56.0" height="26" rx="6" fill="#0f2537" stroke="#28506e"/>
+<text class="m" x="207.9" y="969.5" font-size="12" fill="#cfe6f5" font-weight="500" letter-spacing="0" text-anchor="start" textLength="36.0" lengthAdjust="spacingAndGlyphs">React</text>
+<rect x="261.9" y="952" width="106.4" height="26" rx="6" fill="#0f2537" stroke="#28506e"/>
+<text class="m" x="271.9" y="969.5" font-size="12" fill="#cfe6f5" font-weight="500" letter-spacing="0" text-anchor="start" textLength="86.4" lengthAdjust="spacingAndGlyphs">Tailwind CSS</text>
+</svg>

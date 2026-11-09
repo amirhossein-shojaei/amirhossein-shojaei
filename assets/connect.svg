@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="196" viewBox="0 0 900 196" role="img" aria-labelledby="t d" fill="none">
+<title id="t">06 / Let&#x27;s connect</title>
+<desc id="d">Let&#x27;s build something useful. Explore more of my work on my personal website: amirhosseinshojaei.ir</desc>
+<style>.s{font-family:Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif}.m{font-family:'JetBrains Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace}
+.lg{animation:pulse 8s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.09}50%{opacity:.24}}
+.bsh{animation:bsh 6s 1.5s ease-in-out infinite}@keyframes bsh{0%{transform:translateX(-120px)}30%,100%{transform:translateX(420px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs>
+<symbol id="lg-html" viewBox="0 0 24 24"><path fill="#E34F26" d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z"/></symbol>
+<symbol id="lg-js" viewBox="0 0 64 64">
+      <rect width="64" height="64" rx="9" fill="#F7DF1E"/>
+      <text x="57" y="56" text-anchor="end" font-family="Inter,Arial,sans-serif" font-weight="800" font-size="30" fill="#1b1b1b">JS</text>
+    </symbol>
+<symbol id="lg-python" viewBox="0 0 24 24"><path fill="#3776AB" d="M14.25.18l.9.2.73.26.59.3.45.32.34.34.25.34.16.33.1.3.04.26.02.2-.01.13V8.5l-.05.63-.13.55-.21.46-.26.38-.3.31-.33.25-.35.19-.35.14-.33.1-.3.07-.26.04-.21.02H8.77l-.69.05-.59.14-.5.22-.41.27-.33.32-.27.35-.2.36-.15.37-.1.35-.07.32-.04.27-.02.21v3.06H3.17l-.21-.03-.28-.07-.32-.12-.35-.18-.36-.26-.36-.36-.35-.46-.32-.59-.28-.73-.21-.88-.14-1.05-.05-1.23.06-1.22.16-1.04.24-.87.32-.71.36-.57.4-.44.42-.33.42-.24.4-.16.36-.1.32-.05.24-.01h.16l.06.01h8.16v-.83H6.18l-.01-2.75-.02-.37.05-.34.11-.31.17-.28.25-.26.31-.23.38-.2.44-.18.51-.15.58-.12.64-.1.71-.06.77-.04.84-.02 1.27.05zm-6.3 1.98l-.23.33-.08.41.08.41.23.34.33.22.41.09.41-.09.33-.22.23-.34.08-.41-.08-.41-.23-.33-.33-.22-.41-.09-.41.09zm13.09 3.95l.28.06.32.12.35.18.36.27.36.35.35.47.32.59.28.73.21.88.14 1.04.05 1.23-.06 1.23-.16 1.04-.24.86-.32.71-.36.57-.4.45-.42.33-.42.24-.4.16-.36.09-.32.05-.24.02-.16-.01h-8.22v.82h5.84l.01 2.76.02.36-.05.34-.11.31-.17.29-.25.25-.31.24-.38.2-.44.17-.51.15-.58.13-.64.09-.71.07-.77.04-.84.01-1.27-.04-1.07-.14-.9-.2-.73-.25-.59-.3-.45-.33-.34-.34-.25-.34-.16-.33-.1-.3-.04-.25-.02-.2.01-.13v-5.34l.05-.64.13-.54.21-.46.26-.38.3-.32.33-.24.35-.2.35-.14.33-.1.3-.06.26-.04.21-.02.13-.01h5.84l.69-.05.59-.14.5-.21.41-.28.33-.32.27-.35.2-.36.15-.36.1-.35.07-.32.04-.28.02-.21V6.07h2.09l.14.01zm-6.47 14.25l-.23.33-.08.41.08.41.23.33.33.23.41.08.41-.08.33-.23.23-.33.08-.41-.08-.41-.23-.33-.33-.23-.41-.08-.41.08z"/></symbol>
+<filter id="gl-html" x="-60%" y="-60%" width="220%" height="220%"><feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#e34f26" flood-opacity=".75"/></filter>
+<filter id="gl-js" x="-60%" y="-60%" width="220%" height="220%"><feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#f7df1e" flood-opacity=".75"/></filter>
+<filter id="gl-python" x="-60%" y="-60%" width="220%" height="220%"><feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#3776ab" flood-opacity=".75"/></filter>
+<linearGradient id="bt" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1f6feb"/><stop offset="1" stop-color="#1a5fd0"/></linearGradient>
+<filter id="bs" x="-30%" y="-60%" width="160%" height="220%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#1f6feb" flood-opacity=".35"/></filter>
+<linearGradient id="bsh" x1="0" x2="1"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".22"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="bc"><rect x="584" y="98" width="276" height="50" rx="10"/></clipPath>
+<linearGradient id="pg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111a25"/><stop offset="1" stop-color="#0f1721"/></linearGradient>
+<linearGradient id="hl" x1="0" x2="1"><stop stop-color="#315678"/><stop offset="1" stop-color="#315678" stop-opacity="0"/></linearGradient>
+<clipPath id="pc"><rect x="1" y="1" width="898" height="194" rx="16"/></clipPath>
+</defs>
+<rect x=".5" y=".5" width="899" height="195" rx="16" fill="url(#pg)" stroke="#263647"/>
+<g clip-path="url(#pc)"><g class="lg" opacity="0.14" style="animation-duration:9s;animation-delay:-1s" filter="url(#gl-js)"><use href="#lg-js" x="452" y="140" width="44" height="44"/></g><g class="lg" opacity="0.14" style="animation-duration:8s;animation-delay:-4s" filter="url(#gl-python)"><use href="#lg-python" x="-10" y="132" width="48" height="48"/></g><g class="lg" opacity="0.14" style="animation-duration:10s;animation-delay:-6s" filter="url(#gl-html)"><use href="#lg-html" x="858" y="-8" width="40" height="40"/></g></g>
+<text class="m" x="40" y="50" font-size="17" font-weight="600" letter-spacing="0.6" textLength="194.4" lengthAdjust="spacingAndGlyphs"><tspan fill="#5ee6cf">06</tspan><tspan fill="#9ecbff"> / LET&#x27;S CONNECT</tspan></text>
+<rect x="248.4" y="44" width="611.6" height="1" fill="url(#hl)"/>
+<text class="s" x="40" y="118" font-size="27" font-weight="700" letter-spacing="-.5" fill="#e6edf3">Let's build something useful.</text>
+<text class="s" x="40" y="148" font-size="15.5" fill="#91a4b8">Explore more of my work on my personal website.</text>
+<g filter="url(#bs)"><rect x="584" y="98" width="276" height="50" rx="10" fill="url(#bt)" stroke="#388bfd"/></g>
+<g clip-path="url(#bc)"><rect class="bsh" x="560" y="98" width="90" height="50" fill="url(#bsh)"/></g>
+<g transform="translate(604,113) scale(.85)" stroke="#eaf6ff" stroke-width="1.9"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"/></g>
+<text class="m" x="634.0" y="128.0" font-size="14" fill="#ffffff" font-weight="700" letter-spacing="0" text-anchor="start" textLength="176.4" lengthAdjust="spacingAndGlyphs">amirhosseinshojaei.ir</text>
+<path d="M834 117l8-8M836 109h6v6" stroke="#eaf6ff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

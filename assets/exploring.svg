@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="198" viewBox="0 0 900 198" role="img" aria-labelledby="t d" fill="none">
+<title id="t">05 / Currently exploring</title>
+<desc id="d">Currently exploring: DevOps &amp; Deployment, System Design, Software Architecture, AI Engineering, English Communication.</desc>
+<style>.s{font-family:Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif}.m{font-family:'JetBrains Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace}
+.lg{animation:pulse 8s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.09}50%{opacity:.24}}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs>
+<symbol id="lg-docker" viewBox="0 0 64 50">
+      <g fill="#2496ED">
+        <rect x="8" y="19" width="6.4" height="6" rx=".8"/><rect x="15.4" y="19" width="6.4" height="6" rx=".8"/><rect x="22.8" y="19" width="6.4" height="6" rx=".8"/><rect x="30.2" y="19" width="6.4" height="6" rx=".8"/><rect x="37.6" y="19" width="6.4" height="6" rx=".8"/>
+        <rect x="15.4" y="12" width="6.4" height="6" rx=".8"/><rect x="22.8" y="12" width="6.4" height="6" rx=".8"/><rect x="30.2" y="12" width="6.4" height="6" rx=".8"/>
+        <rect x="30.2" y="5" width="6.4" height="6" rx=".8"/>
+        <path d="M2 27h50.5c1.4-3.6 4.6-5.6 8.6-4.6-.9 3-3.2 4.8-6.1 5C51.8 38.6 42.6 46 27.5 46 13.4 46 4.6 38.8 2 27Z"/>
+      </g>
+      <circle cx="15" cy="35" r="1.6" fill="#0d1117"/>
+    </symbol>
+<symbol id="lg-react" viewBox="-12 -12 24 24">
+      <g fill="none" stroke="#61DAFB" stroke-width="1"><ellipse rx="11" ry="4.2"/><ellipse rx="11" ry="4.2" transform="rotate(60)"/><ellipse rx="11" ry="4.2" transform="rotate(120)"/></g>
+      <circle r="2.05" fill="#61DAFB"/>
+    </symbol>
+<filter id="gl-docker" x="-60%" y="-60%" width="220%" height="220%"><feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#2496ed" flood-opacity=".75"/></filter>
+<filter id="gl-react" x="-60%" y="-60%" width="220%" height="220%"><feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#61dafb" flood-opacity=".75"/></filter>
+<filter id="dg" x="-200%" y="-200%" width="500%" height="500%"><feDropShadow dx="0" dy="0" stdDeviation="2.5" flood-color="#39d0d8" flood-opacity=".9"/></filter>
+<linearGradient id="pg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111a25"/><stop offset="1" stop-color="#0f1721"/></linearGradient>
+<linearGradient id="hl" x1="0" x2="1"><stop stop-color="#315678"/><stop offset="1" stop-color="#315678" stop-opacity="0"/></linearGradient>
+<clipPath id="pc"><rect x="1" y="1" width="898" height="196" rx="16"/></clipPath>
+</defs>
+<rect x=".5" y=".5" width="899" height="197" rx="16" fill="url(#pg)" stroke="#263647"/>
+<g clip-path="url(#pc)"><g class="lg" opacity="0.14" style="animation-duration:9s;animation-delay:-2s" filter="url(#gl-docker)"><use href="#lg-docker" x="832" y="128" width="64" height="64"/></g><g class="lg" opacity="0.14" style="animation-duration:8s;animation-delay:-5s" filter="url(#gl-react)"><use href="#lg-react" x="-16" y="-14" width="56" height="56"/></g></g>
+<text class="m" x="40" y="50" font-size="17" font-weight="600" letter-spacing="0.6" textLength="259.2" lengthAdjust="spacingAndGlyphs"><tspan fill="#5ee6cf">05</tspan><tspan fill="#9ecbff"> / CURRENTLY EXPLORING</tspan></text>
+<rect x="313.2" y="44" width="546.8" height="1" fill="url(#hl)"/>
+<rect x="40.0" y="82" width="191.6" height="36" rx="18" fill="#11283a" stroke="#2b4d65"/>
+<text class="m" x="56.0" y="105.0" font-size="14" fill="#b8dfff" font-weight="400" letter-spacing="0" text-anchor="start" textLength="159.6" lengthAdjust="spacingAndGlyphs">DevOps &amp; Deployment</text>
+<rect x="241.6" y="82" width="141.2" height="36" rx="18" fill="#11283a" stroke="#2b4d65"/>
+<text class="m" x="257.6" y="105.0" font-size="14" fill="#b8dfff" font-weight="400" letter-spacing="0" text-anchor="start" textLength="109.2" lengthAdjust="spacingAndGlyphs">System Design</text>
+<rect x="392.8" y="82" width="208.4" height="36" rx="18" fill="#11283a" stroke="#2b4d65"/>
+<text class="m" x="408.8" y="105.0" font-size="14" fill="#b8dfff" font-weight="400" letter-spacing="0" text-anchor="start" textLength="176.4" lengthAdjust="spacingAndGlyphs">Software Architecture</text>
+<rect x="611.2" y="82" width="149.6" height="36" rx="18" fill="#11283a" stroke="#2b4d65"/>
+<text class="m" x="627.2" y="105.0" font-size="14" fill="#b8dfff" font-weight="400" letter-spacing="0" text-anchor="start" textLength="117.6" lengthAdjust="spacingAndGlyphs">AI Engineering</text>
+<rect x="40.0" y="128" width="208.4" height="36" rx="18" fill="#11283a" stroke="#2b4d65"/>
+<text class="m" x="56.0" y="151.0" font-size="14" fill="#b8dfff" font-weight="400" letter-spacing="0" text-anchor="start" textLength="176.4" lengthAdjust="spacingAndGlyphs">English Communication</text>
+</svg>

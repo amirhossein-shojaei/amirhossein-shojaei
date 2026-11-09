@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="92" viewBox="0 0 900 92" role="img" aria-labelledby="t d" fill="none">
+<title id="t">Keep coding, keep growing</title>
+<desc id="d">Keep coding, keep growing. Always learning. Always building.</desc>
+<style>.s{font-family:Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif}.m{font-family:'JetBrains Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace}
+.lg{animation:pulse 8s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.09}50%{opacity:.24}}
+.gl{animation:gl 5s ease-in-out infinite}@keyframes gl{0%,100%{opacity:.45}50%{opacity:1}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs>
+<linearGradient id="fl" x1="0" x2="1"><stop stop-color="#39d0d8" stop-opacity="0"/><stop offset=".5" stop-color="#39d0d8" stop-opacity=".8"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/></linearGradient>
+</defs>
+<rect class="gl" x="250" y="14" width="400" height="1.5" fill="url(#fl)"/>
+<text class="m" x="450.0" y="52.0" font-size="13" fill="#6f8498" font-weight="500" letter-spacing="2.4" text-anchor="middle" textLength="265.2" lengthAdjust="spacingAndGlyphs">KEEP CODING · KEEP GROWING</text>
+<text class="m" x="450.0" y="74.0" font-size="9.5" fill="#4f6476" font-weight="400" letter-spacing="0.8" text-anchor="middle" textLength="214.5" lengthAdjust="spacingAndGlyphs">ALWAYS LEARNING. ALWAYS BUILDING.</text>
+</svg>

@@ -17,23 +17,22 @@
 </p>
 
 <p align="center">
-  <img src="assets/projects.svg" width="100%" alt="03 / Selected projects — Hobo (Shopify): an embedded Shopify application that brings AI-powered chat and customer support into the commerce experience, with a human handoff workflow. Stack: Shopify, Web Components, AI. Elixia (PWA): a modern Progressive Web App platform focused on an app-like experience on the web. Stack: PWA, Web Development. Personal Website (Portfolio): a personal developer website and portfolio presenting professional identity, selected work, and technical focus. Stack: Next.js, React, Tailwind CSS.">
+  <img src="assets/projects.svg" width="100%" alt="03 / Selected projects — Hobo (Shopify app, AI): an embedded Shopify app that adds an AI chat assistant to the storefront, with semantic catalog search and human handoff. Coup (reservation PWA): coworking seat and meeting-room booking at Pardis Technology Park. OIEC (enterprise, AI): product information processing and legacy product code conversion with Flowise AI pipelines. INOTEX (event PWA, AI): digital exhibition platform with exhibitors, programs, news and an AI chatbot. Elixia (AI fitness PWA): AI-powered personalized workout and nutrition planning.">
 </p>
 
 <p align="center">
-  <img src="assets/activity.svg" width="100%" alt="04 / GitHub activity — live contribution data.">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amirhossein-shojaei&background=111A25&border=263647&stroke=263647&ring=39D0D8&fire=5EE6CF&currStreakNum=8BC8FF&sideNums=8BC8FF&currStreakLabel=9ECBFF&sideLabels=91A4B8&dates=6F8498&border_radius=16&card_width=900&card_height=200" width="100%" alt="GitHub contribution streak statistics for amirhossein-shojaei">
+  <sub>Live:&nbsp; <a href="https://coup.davandegan.cloud/">Coup</a> &nbsp;·&nbsp; <a href="https://app.inotex.com">INOTEX</a> &nbsp;·&nbsp; <a href="https://myelixia.com/">Elixia</a></sub>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amirhossein-shojaei/amirhossein-shojaei/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amirhossein-shojaei/amirhossein-shojaei/output/github-snake.svg">
-    <img src="https://raw.githubusercontent.com/amirhossein-shojaei/amirhossein-shojaei/output/github-snake-dark.svg" width="100%" alt="Snake animation eating the GitHub contribution grid of amirhossein-shojaei">
+    <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/amirhossein-shojaei/amirhossein-shojaei/output/contribution-snake-static.svg">
+    <img src="https://raw.githubusercontent.com/amirhossein-shojaei/amirhossein-shojaei/output/contribution-snake.svg" width="100%" alt="04 / GitHub activity — my real GitHub contribution calendar for the last 12 months, with an animated snake that travels the grid and eats every day that has contributions.">
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amirhossein-shojaei/amirhossein-shojaei/output/github-stats.svg" width="100%" alt="GitHub stats — total contributions, current and longest contribution streaks, total commits, and most used programming languages, generated from GitHub data.">
 </p>
 
 <p align="center">

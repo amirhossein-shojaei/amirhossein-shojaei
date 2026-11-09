@@ -1,0 +1,71 @@
+name: Profile activity
+
+# Rebuilds the contribution-snake calendar and the stats card from real GitHub data
+# and publishes them to the `output` branch, which README.md embeds.
+
+on:
+  schedule:
+    - cron: "23 */6 * * *" # every 6 hours
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/generate-activity.mjs"
+      - "scripts/lib/**"
+      - ".github/workflows/profile-activity.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-activity
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate SVG assets
+        env:
+          # Optional PROFILE_STATS_TOKEN (fine-grained or classic PAT, read-only) lets commit totals
+          # and languages include private repositories. Falls back to the built-in token.
+          GITHUB_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+        run: node scripts/generate-activity.mjs --out "$RUNNER_TEMP/activity"
+
+      - name: Validate SVG output
+        run: |
+          python3 - "$RUNNER_TEMP"/activity/*.svg <<'PY'
+          import sys, xml.etree.ElementTree as ET
+          for path in sys.argv[1:]:
+              root = ET.parse(path).getroot()
+              assert root.tag.endswith('svg'), f'{path}: root is not <svg>'
+              assert root.find('{http://www.w3.org/2000/svg}script') is None, f'{path}: contains <script>'
+              print(f'ok  {path}')
+          PY
+
+      - name: Publish to output branch
+        env:
+          SRC: ${{ runner.temp }}/activity
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan output-build
+          git rm -rf --quiet .
+          git clean -fdx --quiet
+          cp "$SRC"/*.svg "$SRC"/activity.json .
+          git add -- *.svg activity.json
+          git commit --quiet -m "Update profile activity assets ($(date -u +%Y-%m-%dT%H:%MZ))"
+          # Single-commit branch: force-push so generated assets never bloat history.
+          git push --force --quiet origin output-build:output
+          echo "Published $(ls *.svg | tr '\n' ' ')to the output branch."

@@ -30,12 +30,12 @@
 </p>
 
 <p align="center">
-  <img src="assets/exploring.svg" width="100%" alt="05 / Currently exploring — DevOps &amp; Deployment, System Design, Software Architecture, AI Engineering, English Communication.">
+  <img src="assets/exploring.svg" width="100%" alt="04 / Currently exploring — DevOps &amp; Deployment, System Design, Software Architecture, AI Engineering, English Communication.">
 </p>
 
 <p align="center">
   <a href="https://amirhosseinshojaei.ir">
-    <img src="assets/connect.svg" width="100%" alt="06 / Let's connect — Let's build something useful. Visit my personal website: amirhosseinshojaei.ir">
+    <img src="assets/connect.svg" width="100%" alt="05 / Let's connect — Let's build something useful. Visit my personal website: amirhosseinshojaei.ir">
   </a>
 </p>
 

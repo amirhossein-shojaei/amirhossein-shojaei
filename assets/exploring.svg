@@ -29,7 +29,7 @@
 </defs>
 <rect x=".5" y=".5" width="899" height="197" rx="16" fill="url(#pg)" stroke="#263647"/>
 <g clip-path="url(#pc)"><g class="lg" opacity="0.14" style="animation-duration:9s;animation-delay:-2s" filter="url(#gl-docker)"><use href="#lg-docker" x="832" y="128" width="64" height="64"/></g><g class="lg" opacity="0.14" style="animation-duration:8s;animation-delay:-5s" filter="url(#gl-react)"><use href="#lg-react" x="-16" y="-14" width="56" height="56"/></g></g>
-<text class="m" x="40" y="50" font-size="17" font-weight="600" letter-spacing="0.6" textLength="259.2" lengthAdjust="spacingAndGlyphs"><tspan fill="#5ee6cf">05</tspan><tspan fill="#9ecbff"> / CURRENTLY EXPLORING</tspan></text>
+<text class="m" x="40" y="50" font-size="17" font-weight="600" letter-spacing="0.6" textLength="259.2" lengthAdjust="spacingAndGlyphs"><tspan fill="#5ee6cf">04</tspan><tspan fill="#9ecbff"> / CURRENTLY EXPLORING</tspan></text>
 <rect x="313.2" y="44" width="546.8" height="1" fill="url(#hl)"/>
 <rect x="40.0" y="82" width="191.6" height="36" rx="18" fill="#11283a" stroke="#2b4d65"/>
 <text class="m" x="56.0" y="105.0" font-size="14" fill="#b8dfff" font-weight="400" letter-spacing="0" text-anchor="start" textLength="159.6" lengthAdjust="spacingAndGlyphs">DevOps &amp; Deployment</text>

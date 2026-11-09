@@ -26,7 +26,7 @@
 </defs>
 <rect x=".5" y=".5" width="899" height="195" rx="16" fill="url(#pg)" stroke="#263647"/>
 <g clip-path="url(#pc)"><g class="lg" opacity="0.14" style="animation-duration:9s;animation-delay:-1s" filter="url(#gl-js)"><use href="#lg-js" x="452" y="140" width="44" height="44"/></g><g class="lg" opacity="0.14" style="animation-duration:8s;animation-delay:-4s" filter="url(#gl-python)"><use href="#lg-python" x="-10" y="132" width="48" height="48"/></g><g class="lg" opacity="0.14" style="animation-duration:10s;animation-delay:-6s" filter="url(#gl-html)"><use href="#lg-html" x="858" y="-8" width="40" height="40"/></g></g>
-<text class="m" x="40" y="50" font-size="17" font-weight="600" letter-spacing="0.6" textLength="194.4" lengthAdjust="spacingAndGlyphs"><tspan fill="#5ee6cf">06</tspan><tspan fill="#9ecbff"> / LET&#x27;S CONNECT</tspan></text>
+<text class="m" x="40" y="50" font-size="17" font-weight="600" letter-spacing="0.6" textLength="194.4" lengthAdjust="spacingAndGlyphs"><tspan fill="#5ee6cf">05</tspan><tspan fill="#9ecbff"> / LET&#x27;S CONNECT</tspan></text>
 <rect x="248.4" y="44" width="611.6" height="1" fill="url(#hl)"/>
 <text class="s" x="40" y="118" font-size="27" font-weight="700" letter-spacing="-.5" fill="#e6edf3">Let's build something useful.</text>
 <text class="s" x="40" y="148" font-size="15.5" fill="#91a4b8">Explore more of my work on my personal website.</text>

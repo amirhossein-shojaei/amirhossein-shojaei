@@ -1,0 +1,36 @@
+{
+  "user": "amirhossein-shojaei",
+  "source": "graphql",
+  "range": [
+    "2025-11-09",
+    "2026-11-14"
+  ],
+  "lastYearTotal": 1725,
+  "activeDaysLastYear": 186,
+  "totalAllTime": 2353,
+  "totalCommits": 35,
+  "streaks": {
+    "current": {
+      "length": 0,
+      "start": null,
+      "end": null
+    },
+    "longest": {
+      "length": 13,
+      "start": "2026-09-26",
+      "end": "2026-10-08"
+    }
+  },
+  "languages": [
+    {
+      "name": "Python",
+      "color": "#3572A5",
+      "share": 0.7231997143711588
+    },
+    {
+      "name": "JavaScript",
+      "color": "#f1e05a",
+      "share": 0.2768002856288412
+    }
+  ]
+}

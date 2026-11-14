@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="308" viewBox="0 0 900 308" role="img" aria-labelledby="t d" fill="none">
+<title id="t">GitHub stats</title>
+<desc id="d">GitHub statistics for amirhossein-shojaei: total contributions 2,353, current streak 0 days, longest streak 13 days, total commits 35. Most used languages: Python 72.3%, JavaScript 27.7%.</desc>
+<style>.s{font-family:Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif}.m{font-family:'JetBrains Mono',SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace}</style>
+<defs><linearGradient id="pg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111a25"/><stop offset="1" stop-color="#0f1721"/></linearGradient><linearGradient id="hl" x1="0" x2="1"><stop stop-color="#315678"/><stop offset="1" stop-color="#315678" stop-opacity="0"/></linearGradient></defs>
+<rect x=".5" y=".5" width="899" height="307" rx="16" fill="url(#pg)" stroke="#263647"/>
+<path d="M44 37.5 47.5 34l3.5 3.5-3.5 3.5Z" fill="#5ee6cf"/><text class="m" x="58" y="42" font-size="13" font-weight="600" letter-spacing=".8" fill="#9ecbff">GITHUB STATS</text><rect x="175.2" y="37" width="544.8" height="1" fill="url(#hl)"/><text class="m" x="860" y="42" font-size="10.5" fill="#6f8498" text-anchor="end">Updated Nov 14, 2026</text>
+<rect x="40" y="72" width="196" height="98" rx="12" fill="#0f1b28" stroke="#22374a"/>
+<rect x="56" y="72" width="164" height="1.5" fill="#5ee6cf" opacity=".55"/>
+<g transform="translate(56,88) scale(.66)" stroke="#5ee6cf" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v18h18"/><path d="m7 15 4-4 3 3 5-6"/></g>
+<text class="m" x="78" y="100" font-size="9.5" font-weight="600" letter-spacing=".9" fill="#8fa6ba">TOTAL CONTRIBUTIONS</text>
+<text class="s" x="56" y="136" font-size="27" font-weight="700" letter-spacing="-.5" fill="#e9f3ff">2,353</text>
+<text class="s" x="56" y="156" font-size="11.5" fill="#6f8498">All time · since 2025</text>
+<rect x="248" y="72" width="196" height="98" rx="12" fill="#0f1b28" stroke="#22374a"/>
+<rect x="264" y="72" width="164" height="1.5" fill="#42d6a4" opacity=".55"/>
+<g transform="translate(264,88) scale(.66)" stroke="#42d6a4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3c1 3.5 5 5.2 5 10a5 5 0 0 1-10 0c0-2.2 1-3.6 2.4-4.8.3 1.6 1.1 2.6 2.1 2.8C11 8.6 11 5.6 12 3Z"/></g>
+<text class="m" x="286" y="100" font-size="9.5" font-weight="600" letter-spacing=".9" fill="#8fa6ba">CURRENT STREAK</text>
+<text class="s" x="264" y="136" font-size="27" font-weight="700" letter-spacing="-.5" fill="#e9f3ff">0<tspan dx="6" font-size="13" font-weight="500" letter-spacing="0" fill="#91a4b8">days</tspan></text>
+<text class="s" x="264" y="156" font-size="11.5" fill="#6f8498">No active streak</text>
+<rect x="456" y="72" width="196" height="98" rx="12" fill="#0f1b28" stroke="#22374a"/>
+<rect x="472" y="72" width="164" height="1.5" fill="#39d0d8" opacity=".55"/>
+<g transform="translate(472,88) scale(.66)" stroke="#39d0d8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 21h8M12 17v4M7 4h10v5a5 5 0 0 1-10 0V4Z"/><path d="M7 6H4.5a2.5 2.5 0 0 0 2.6 3.7M17 6h2.5a2.5 2.5 0 0 1-2.6 3.7"/></g>
+<text class="m" x="494" y="100" font-size="9.5" font-weight="600" letter-spacing=".9" fill="#8fa6ba">LONGEST STREAK</text>
+<text class="s" x="472" y="136" font-size="27" font-weight="700" letter-spacing="-.5" fill="#e9f3ff">13<tspan dx="6" font-size="13" font-weight="500" letter-spacing="0" fill="#91a4b8">days</tspan></text>
+<text class="s" x="472" y="156" font-size="11.5" fill="#6f8498">Sep 26 – Oct 8, 2026</text>
+<rect x="664" y="72" width="196" height="98" rx="12" fill="#0f1b28" stroke="#22374a"/>
+<rect x="680" y="72" width="164" height="1.5" fill="#79c0ff" opacity=".55"/>
+<g transform="translate(680,88) scale(.66)" stroke="#79c0ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3.2"/><path d="M3 12h5.8M15.2 12H21"/></g>
+<text class="m" x="702" y="100" font-size="9.5" font-weight="600" letter-spacing=".9" fill="#8fa6ba">TOTAL COMMITS</text>
+<text class="s" x="680" y="136" font-size="27" font-weight="700" letter-spacing="-.5" fill="#e9f3ff">35</text>
+<text class="s" x="680" y="156" font-size="11.5" fill="#6f8498">All time · since 2025</text>
+<rect x="40" y="192" width="820" height="92" rx="12" fill="#0f1b28" stroke="#22374a"/>
+<g transform="translate(56,208) scale(.66)" stroke="#a5a0ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m8 8-4 4 4 4M16 8l4 4-4 4M13.5 5l-3 14"/></g>
+<text class="m" x="78" y="220" font-size="9.5" font-weight="600" letter-spacing=".9" fill="#8fa6ba">MOST USED LANGUAGES</text>
+<text class="s" x="844" y="220" font-size="11" fill="#6f8498" text-anchor="end">Weighted by commit activity across repositories</text>
+<clipPath id="lb"><rect x="56" y="234" width="788" height="8" rx="4"/></clipPath>
+<g clip-path="url(#lb)"><rect x="56" y="234" width="567.9" height="8" fill="#3572A5"/><rect x="625.9" y="234" width="216.1" height="8" fill="#f1e05a"/></g>
+<circle cx="60" cy="262" r="4" fill="#3572A5"/>
+<text class="s" x="69" y="266" font-size="12" fill="#c3d2e0">Python <tspan class="m" font-size="11" fill="#6f8498">72.3%</tspan></text>
+<circle cx="176.2" cy="262" r="4" fill="#f1e05a"/>
+<text class="s" x="185.2" y="266" font-size="12" fill="#c3d2e0">JavaScript <tspan class="m" font-size="11" fill="#6f8498">27.7%</tspan></text>
+</svg>
